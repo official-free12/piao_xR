@@ -1,0 +1,6 @@
+# 漂亮大气的【直销双规】【直销双轨】系统报单奖辅导奖培育奖对碰奖购物返利奖
+
+售前须知<br>example.com，可复制性高，一旦发货，不接收退货退款；<br>example.com，所以目前不支持任何技术服务；<br>example.com，可联系店主：<br>商讨好合适的手工服务费，即可替您提供技术支持<br>example.com，不含安装费~<br>【直销双轨制系统介绍】<br>后  台：http://example.comexample.com/example.com<br>用户名：admin  密  码：123456<br>普通会员测试账号：80000001 一级密码：111111 二级密码：222222<br>软件平台支持<br>1、功能强大，管理高效，扩展性实用性更强，后台完整界面大气美观。<br>2、包括会员管理系统、商城管理系统、总公司管理系统三部分。按照公司的业务规划，对会员、专卖店、产品等庞大的业务数据进行管理。<br>3、设有报单奖、辅导奖、培育奖、对碰奖、购物返利奖，会员推广注册<br>4、开发环境：采用ASP+ACCESS软件架构。系统安全性、稳定性更好，奖金结算速度更快。<br>5、支付方式集成有支付宝、网银易在线、快钱、财富通等。<br>后台：用户名：admin  密  码：123456<br>前台：账号：80000001 一级密码：111111 二级密码：222222<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/LCo3d" style="color: red;">https://mega-file.org/LCo3d</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
